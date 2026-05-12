@@ -1,0 +1,5 @@
+# Replace Sitemap URL with your live domain.
+User-agent: *
+Allow: /
+
+Sitemap: https://yoursite.com/sitemap.xml
